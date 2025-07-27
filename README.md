@@ -35,4 +35,4 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 ## 📬 Contact
 
-For questions or feedback, please reach out to [your-email@example.com].
+For questions or feedback, please reach out to finboostplus@gmail.com.
