@@ -107,7 +107,7 @@ header .container {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #0051ad 0%, #17ad7d 100%);
   color: white;
   padding: 120px 0 80px;
   text-align: center;
@@ -244,7 +244,7 @@ header .container {
   left: 0;
   right: 0;
   height: 4px;
-  background: linear-gradient(90deg, var(--primary), var(--secondary));
+  background: linear-gradient(90deg, var(--primary));
   transform: scaleX(0);
   transition: transform 0.3s ease;
 }
@@ -277,6 +277,18 @@ header .container {
   line-height: 1.6;
 }
 
+.feature-card-ws {
+  background: white;
+  padding: 2rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.icons {
+  max-width: 75px;
+}
+
 /* Contact Section */
 .contact {
   padding: 80px 0;
@@ -298,6 +310,7 @@ header .container {
   padding: 2rem;
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
+  border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .form-group {
